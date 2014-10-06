@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1F77C6AB-F566-469C-A3C8-B3F77B42221C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Age of Laika</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52D16EACDBE1BAC7B2541206B9BCE7D4C232C7F8</key>
+		<string>https://github.com/Luis-Espinal/Age-of-Laika.git</string>
+		<key>F443D5FF78C5CE92361DA6005DC44419F30884B4</key>
+		<string>https://github.com/Luis-Espinal/Age-of-Laika.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Age of Laika.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52D16EACDBE1BAC7B2541206B9BCE7D4C232C7F8</key>
+		<string>../..</string>
+		<key>F443D5FF78C5CE92361DA6005DC44419F30884B4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Luis-Espinal/Age-of-Laika.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52D16EACDBE1BAC7B2541206B9BCE7D4C232C7F8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F443D5FF78C5CE92361DA6005DC44419F30884B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52D16EACDBE1BAC7B2541206B9BCE7D4C232C7F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Age-of-Laika</string>
+		</dict>
+	</array>
+</dict>
+</plist>

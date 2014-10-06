@@ -7,12 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D18F9AC19CC8B6000648624 /* Enter Age Here.png in Resources */ = {isa = PBXBuildFile; fileRef = 0D18F9A619CC8B6000648624 /* Enter Age Here.png */; };
+		0D18F9AD19CC8B6000648624 /* How old is your Dog?.png in Resources */ = {isa = PBXBuildFile; fileRef = 0D18F9A719CC8B6000648624 /* How old is your Dog?.png */; };
+		0D18F9AE19CC8B6000648624 /* Oval 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0D18F9A819CC8B6000648624 /* Oval 1.png */; };
+		0D18F9AF19CC8B6000648624 /* Press the Button to .png in Resources */ = {isa = PBXBuildFile; fileRef = 0D18F9A919CC8B6000648624 /* Press the Button to .png */; };
+		0D18F9B019CC8B6000648624 /* Rectangle 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0D18F9AA19CC8B6000648624 /* Rectangle 2.png */; };
+		0D18F9B119CC8B6000648624 /* Rectangle 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0D18F9AB19CC8B6000648624 /* Rectangle 3.png */; };
 		0D6E671F19CB55BA00A5D96A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6E671E19CB55BA00A5D96A /* AppDelegate.swift */; };
 		0D6E672119CB55BA00A5D96A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6E672019CB55BA00A5D96A /* ViewController.swift */; };
 		0D6E672419CB55BB00A5D96A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D6E672219CB55BB00A5D96A /* Main.storyboard */; };
 		0D6E672619CB55BB00A5D96A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D6E672519CB55BB00A5D96A /* Images.xcassets */; };
 		0D6E672919CB55BB00A5D96A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0D6E672719CB55BB00A5D96A /* LaunchScreen.xib */; };
 		0D6E673519CB55BB00A5D96A /* Age_of_LaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6E673419CB55BB00A5D96A /* Age_of_LaikaTests.swift */; };
+		0D6E673F19CB566200A5D96A /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D6E673E19CB566100A5D96A /* AgeOfLaika.jpg */; };
+		0DC8DE6719D4B62C00D73385 /* Orange Rectangle.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC8DE6619D4B62C00D73385 /* Orange Rectangle.png */; };
+		0DC8DE6919D4BED500D73385 /* Age of Lakia test.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC8DE6819D4BED500D73385 /* Age of Lakia test.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +35,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0D18F9A619CC8B6000648624 /* Enter Age Here.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Enter Age Here.png"; sourceTree = "<group>"; };
+		0D18F9A719CC8B6000648624 /* How old is your Dog?.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "How old is your Dog?.png"; sourceTree = "<group>"; };
+		0D18F9A819CC8B6000648624 /* Oval 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Oval 1.png"; sourceTree = "<group>"; };
+		0D18F9A919CC8B6000648624 /* Press the Button to .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Press the Button to .png"; sourceTree = "<group>"; };
+		0D18F9AA19CC8B6000648624 /* Rectangle 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 2.png"; sourceTree = "<group>"; };
+		0D18F9AB19CC8B6000648624 /* Rectangle 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rectangle 3.png"; sourceTree = "<group>"; };
 		0D6E671919CB55BA00A5D96A /* Age of Laika.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Age of Laika.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D6E671D19CB55BA00A5D96A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D6E671E19CB55BA00A5D96A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +51,9 @@
 		0D6E672E19CB55BB00A5D96A /* Age of LaikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Age of LaikaTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D6E673319CB55BB00A5D96A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D6E673419CB55BB00A5D96A /* Age_of_LaikaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Age_of_LaikaTests.swift; sourceTree = "<group>"; };
+		0D6E673E19CB566100A5D96A /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
+		0DC8DE6619D4B62C00D73385 /* Orange Rectangle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Orange Rectangle.png"; sourceTree = "<group>"; };
+		0DC8DE6819D4BED500D73385 /* Age of Lakia test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Age of Lakia test.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +99,15 @@
 				0D6E672019CB55BA00A5D96A /* ViewController.swift */,
 				0D6E672219CB55BB00A5D96A /* Main.storyboard */,
 				0D6E672519CB55BB00A5D96A /* Images.xcassets */,
+				0DC8DE6819D4BED500D73385 /* Age of Lakia test.png */,
+				0DC8DE6619D4B62C00D73385 /* Orange Rectangle.png */,
+				0D18F9A619CC8B6000648624 /* Enter Age Here.png */,
+				0D18F9A719CC8B6000648624 /* How old is your Dog?.png */,
+				0D18F9A819CC8B6000648624 /* Oval 1.png */,
+				0D18F9A919CC8B6000648624 /* Press the Button to .png */,
+				0D18F9AA19CC8B6000648624 /* Rectangle 2.png */,
+				0D18F9AB19CC8B6000648624 /* Rectangle 3.png */,
+				0D6E673E19CB566100A5D96A /* AgeOfLaika.jpg */,
 				0D6E672719CB55BB00A5D96A /* LaunchScreen.xib */,
 				0D6E671C19CB55BA00A5D96A /* Supporting Files */,
 			);
@@ -192,8 +219,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DC8DE6919D4BED500D73385 /* Age of Lakia test.png in Resources */,
+				0D18F9B119CC8B6000648624 /* Rectangle 3.png in Resources */,
+				0DC8DE6719D4B62C00D73385 /* Orange Rectangle.png in Resources */,
+				0D18F9AF19CC8B6000648624 /* Press the Button to .png in Resources */,
 				0D6E672419CB55BB00A5D96A /* Main.storyboard in Resources */,
+				0D6E673F19CB566200A5D96A /* AgeOfLaika.jpg in Resources */,
+				0D18F9B019CC8B6000648624 /* Rectangle 2.png in Resources */,
+				0D18F9AD19CC8B6000648624 /* How old is your Dog?.png in Resources */,
 				0D6E672919CB55BB00A5D96A /* LaunchScreen.xib in Resources */,
+				0D18F9AC19CC8B6000648624 /* Enter Age Here.png in Resources */,
+				0D18F9AE19CC8B6000648624 /* Oval 1.png in Resources */,
 				0D6E672619CB55BB00A5D96A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -405,6 +441,7 @@
 				0D6E673A19CB55BB00A5D96A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0D6E673B19CB55BB00A5D96A /* Build configuration list for PBXNativeTarget "Age of LaikaTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +450,7 @@
 				0D6E673D19CB55BB00A5D96A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
